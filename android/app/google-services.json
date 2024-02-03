@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "285199844278",
+    "project_id": "chatty-pal-2",
+    "storage_bucket": "chatty-pal-2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:285199844278:android:56c6da9a7fa7fb58923717",
+        "android_client_info": {
+          "package_name": "com.example.chatty_pal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "285199844278-fv9iteb2gp98hppm374e6iqi4eoc0mu7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6MauXs8kXoiUvnVwhA_j83ja0tHqT4gw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "285199844278-fv9iteb2gp98hppm374e6iqi4eoc0mu7.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "285199844278-98uggm6m6ha3rapu5i63c3q2faupie9p.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.chattyPal"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:285199844278:android:1834c358055189b8923717",
+        "android_client_info": {
+          "package_name": "com.example.re"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "285199844278-fv9iteb2gp98hppm374e6iqi4eoc0mu7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6MauXs8kXoiUvnVwhA_j83ja0tHqT4gw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "285199844278-fv9iteb2gp98hppm374e6iqi4eoc0mu7.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "285199844278-98uggm6m6ha3rapu5i63c3q2faupie9p.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.chattyPal"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
