@@ -1,12 +1,12 @@
 import 'dart:developer';
 
-import 'package:chatty_pal/core/utils/app_theme.dart';
-import 'package:chatty_pal/core/utils/screen_size.dart';
-import 'package:chatty_pal/core/utils/widgets/custom_button.dart';
-import 'package:chatty_pal/core/utils/widgets/custom_text_field.dart';
-import 'package:chatty_pal/features/auth/presentation/bloc/basic_auth_provider_bloc/basic_auth_provider_bloc.dart';
-import 'package:chatty_pal/features/auth/presentation/screens/login_screen.dart';
-import 'package:chatty_pal/features/auth/presentation/screens/sign_up_screen.dart';
+import 'package:ChattyPal/core/utils/app_theme.dart';
+import 'package:ChattyPal/core/utils/screen_size.dart';
+import 'package:ChattyPal/core/utils/widgets/custom_button.dart';
+import 'package:ChattyPal/core/utils/widgets/custom_text_field.dart';
+import 'package:ChattyPal/features/auth/presentation/bloc/basic_auth_provider_bloc/basic_auth_provider_bloc.dart';
+import 'package:ChattyPal/features/auth/presentation/screens/login_screen.dart';
+import 'package:ChattyPal/features/auth/presentation/screens/sign_up_screen.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 

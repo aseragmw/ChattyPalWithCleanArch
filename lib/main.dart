@@ -1,6 +1,6 @@
-import 'package:chatty_pal/features/auth/presentation/bloc/basic_auth_provider_bloc/basic_auth_provider_bloc.dart';
-import 'package:chatty_pal/features/auth/presentation/screens/sign_up_screen.dart';
-import 'package:chatty_pal/firebase_options.dart';
+import 'package:ChattyPal/features/auth/presentation/bloc/basic_auth_provider_bloc/basic_auth_provider_bloc.dart';
+import 'package:ChattyPal/features/auth/presentation/screens/sign_up_screen.dart';
+import 'package:ChattyPal/firebase_options.dart';
 import 'package:firebase_core/firebase_core.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';

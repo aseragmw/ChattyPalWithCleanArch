@@ -2,7 +2,7 @@
 
 import 'dart:ui';
 
-import 'package:chatty_pal/core/utils/screen_size.dart';
+import 'package:ChattyPal/core/utils/screen_size.dart';
 import 'package:flutter/material.dart';
 
 class AppTheme {

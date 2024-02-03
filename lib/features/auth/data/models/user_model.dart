@@ -1,5 +1,5 @@
-import 'package:chatty_pal/core/constants/user_model_constants/user_model_conostants.dart';
-import 'package:chatty_pal/features/auth/domian/entities/user_entitiy.dart';
+import 'package:ChattyPal/core/constants/user_model_constants/user_model_conostants.dart';
+import 'package:ChattyPal/features/auth/domian/entities/user_entitiy.dart';
 
 class UserModel extends UserEntity {
   UserModel({required super.userID, required super.userBio, required super.userEmail, required super.userImgUrl, required super.username});

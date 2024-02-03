@@ -1,7 +1,7 @@
 import 'dart:developer';
 
-import 'package:chatty_pal/core/utils/app_constants.dart';
-import 'package:chatty_pal/core/utils/cache_manager.dart';
+import 'package:ChattyPal/core/utils/app_constants.dart';
+import 'package:ChattyPal/core/utils/cache_manager.dart';
 import 'package:dartz/dartz.dart';
 import 'package:firebase_auth/firebase_auth.dart';
 

@@ -1,5 +1,5 @@
 
-import 'package:chatty_pal/core/utils/cache_manager.dart';
+import 'package:ChattyPal/core/utils/cache_manager.dart';
 
 class AppConstants {
   static late bool? userIsLoggedIn;

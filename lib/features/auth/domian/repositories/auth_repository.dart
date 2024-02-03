@@ -1,4 +1,4 @@
-import 'package:chatty_pal/core/errors/failures.dart';
+import 'package:ChattyPal/core/errors/failures.dart';
 import 'package:dartz/dartz.dart';
 import 'package:firebase_auth/firebase_auth.dart';
 
